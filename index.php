@@ -1,3 +1,5 @@
 <?php
+echo "Hello World\n"
 echo phpversion();
-echo "Hello World!";
+echo "\n"
+echo "Hello World!\n";
